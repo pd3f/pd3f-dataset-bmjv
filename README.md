@@ -2,7 +2,7 @@
 
 Dataset of (mostly German) PDFs used to develop [pd3f](https://github.com/pd3f).
 
-This repository contains the code to scrape and download the PDFs. The can be downloaded here: <https://data.jfilter.de/nlp/pd3f/bmjv_v1.zip>.
+This repository contains the code to scrape and download some public documents (PDFs). The can files be downloaded here: <https://data.jfilter.de/nlp/pd3f/bmjv_v1.zip>.
 
 ## Origin of the Dataset
 
